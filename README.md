@@ -5,7 +5,6 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Platforms
 
 - LeetCode
-- Coding Ninjas
 - GeeksforGeeks
 
 ## Topics Covered
@@ -14,6 +13,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Strings
 - Binary Search
 - Sliding Window
+- sorting Techniques
+- Hashing
+- Theory
 - Linked List
 - Stack
 - Queue
